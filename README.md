@@ -144,3 +144,5 @@ for ratio, mse in results:
 ### output
 
 ![alt text](image.png)
+## Result 
+Hence the given programs executed successfully
