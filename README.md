@@ -1,6 +1,9 @@
 # ITRODUCTION MACHINE LEARNING
 # SA -1
-
+```
+Developed by : Nemaleshwar H
+Reg no: 212223230142
+```
 ## Data set
 ```py
 import pandas as pd
@@ -11,6 +14,7 @@ data = pd.read_csv('FuelConsumption.csv')
 data.head(5)
 
 ```
+![alt text](image.png)
 ## Q1. Create a scatter plot between cylinder vs Co2Emission (green color)
 ### program
 ```py
@@ -143,4 +147,7 @@ for ratio, mse in results:
 ```
 ### output
 
-![alt text](image.png)
+![alt text](image3.png)
+
+## Result
+Hence the given program executed successfully
