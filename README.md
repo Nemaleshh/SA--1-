@@ -147,7 +147,4 @@ for ratio, mse in results:
 ```
 ### output
 
-![alt text](image3.png)
-
-## Result
-Hence the given program executed successfully
+![alt text](image.png)
